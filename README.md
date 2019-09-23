@@ -10,3 +10,7 @@ My periodically curated list of awesome stuff (mostly dev-related)
 ## Misc
 
 - [Tools](misc/tools.md)
+
+## Tech Notes
+
+- [Vue Composition API](tech_notes/vue-composition.md)
