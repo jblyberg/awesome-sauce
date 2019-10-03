@@ -11,6 +11,7 @@
 - [Filepond](https://pqina.nl/filepond/): File uploading -[Dragula](https://bevacqua.github.io/dragula/): Super easy drag and drop
 - [QuillJs](https://quilljs.com/): Rich text editor that doesn't suck
 - [Particle.js](https://vincentgarreau.com/particles.js/): Particles!
+- [OpenSeaDragon](https://github.com/openseadragon/openseadragon): An image viewer with good accessibility built-in
 
 ## Back End
 
